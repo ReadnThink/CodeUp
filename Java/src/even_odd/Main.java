@@ -2,7 +2,7 @@ package even_odd;
 
 import java.util.Scanner;
 
-public class OddEven {
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
