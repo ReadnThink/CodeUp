@@ -1,12 +1,12 @@
-package Step100;
+package Step11to20;
 
 import java.util.Scanner;
 
-public class Step010 {
+public class Step017 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
+        int a = sc.nextInt();
 
-        System.out.println(n);
+        System.out.println(a + " " +  a + " " +  a);
     }
 }

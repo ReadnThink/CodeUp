@@ -1,4 +1,4 @@
-package Step100;
+package Step1to10;
 
 public class Step007 {
     public static void main(String[] args) {
