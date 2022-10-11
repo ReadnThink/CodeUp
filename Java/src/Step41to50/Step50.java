@@ -9,7 +9,7 @@ public class Step50 {
         int a= sc.nextInt();
         int b= sc.nextInt();
 
-        if(a==b){
+        if(a == b){
             System.out.println(1);
         }
         else
